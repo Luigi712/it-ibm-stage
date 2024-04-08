@@ -30,3 +30,4 @@
 5) Realizzare un main che legge il file user.json dalle resource tramite il metodo getFileFromInternalResources della classe FileUtility. Realizzare un model in java capace di contenere il json letto. Individuare l'utente che ha il nome proprio ed eseguire una conversione in xml dello stesso valorizzando l'attributo eta.
 
 6) Stampare in console il json e l'xml relativi alla propria persona. Il json dovrà contenere l'attributo sesso, mentre l'xml l'attributo eta.
+
