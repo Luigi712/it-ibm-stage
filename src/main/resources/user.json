@@ -1,23 +1,13 @@
 {
   "utenti": [
     {
-      "nome": "Bruno",
-      "cognome": "De Vivo",
+      "nome": "Luigi",
+      "cognome": "Alberico",
       "sesso": "M"
     },
     {
-      "nome": "Paola",
-      "cognome": "Gentile",
-      "sesso": "F"
-    },
-    {
-      "nome": "Delio",
-      "cognome": "Errosa",
-      "sesso": "M"
-    },
-    {
-      "nome": "Alessandro",
-      "cognome": "Perchiazzi",
+      "nome": "Francesco",
+      "cognome": "Scarfato",
       "sesso": "M"
     }
   ]

@@ -6,8 +6,34 @@
   <name>it-ibm-stage</name>
   <description>Stage java</description>
   
+  
   <dependencies>
+	<dependency>
+ 		<groupId>com.google.code.gson</groupId>
+ 		<artifactId>gson</artifactId>
+ 		<version>2.9.1</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.8.1</version>
+      <scope>test</scope>
+    </dependency>
+ 	
+ <!-- Dipendenza per JAXB API -->
+ 	<dependency>
+     	<groupId>javax.xml.bind</groupId>
+     	<artifactId>jaxb-api</artifactId>
+     	<version>2.3.1</version>
+ 	</dependency>
 
+ <!-- Dipendenza per implementazione di JAXB -->
+ 	<dependency>
+     	<groupId>org.glassfish.jaxb</groupId>
+     	<artifactId>jaxb-runtime</artifactId>
+        <version>2.3.3</version>
+ 	</dependency>
   </dependencies>  
   
   <build>
